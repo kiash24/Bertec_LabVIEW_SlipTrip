@@ -1,6 +1,9 @@
 # Bertec LabVIEW Slip/Trip App
 Application to deliver controlled accelerations/decelerations at specified times during the gait cycle using a standard split-belt treadmill.
 
+### If you use this work, please reference:
+This work is currently under review. Open-source data and manuscript will be avaliable here when complete.
+
 ## Included:
 - AG_PertApp.VI - LabVIEW VI of the perturbation application
   
